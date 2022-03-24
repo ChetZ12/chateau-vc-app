@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@android:drawable/ic_menu_send"
+        android:title="Home"
+        android:visible="true" />
+    <item
+        android:icon="@android:drawable/ic_lock_idle_alarm"
+        android:title="History"
+        android:visible="true" />
+    <item
+        android:icon="@android:drawable/ic_menu_manage"
+        android:title="Settings"
+        android:visible="true" />
+    <item
+        android:icon="@drawable/common_full_open_on_phone"
+        android:title="Logout"
+        android:visible="true" />
+</menu>
